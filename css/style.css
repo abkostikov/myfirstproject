@@ -8,10 +8,16 @@ body {
     color: #000000;
 }
 
+img {
+    max-width: 100%;
+}
+
 .container {
-    max-width: 1110px;
+    max-width: 1140px;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
 } 
 
 /*.none {
